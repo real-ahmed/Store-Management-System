@@ -8,8 +8,6 @@
 4. [Installation](#installation)
 5. [Configuration](#configuration)
 6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 
@@ -68,13 +66,8 @@ To run the Store Management System, ensure that you have the following component
 2. Access the Admin Panel or Cashier Panel using the provided credentials.
 3. Explore the features and functionalities to manage your store effectively.
 
-## Contributing
 
-Contributions to the Store Management System are welcome! Feel free to submit bug reports, feature requests, or contribute directly by creating pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution. Please refer to the license file for more details.
 
 
 
